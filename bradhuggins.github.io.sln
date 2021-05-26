@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "bradhuggins.github.io", ".", "{3B84CDEC-F097-4E29-B9A6-5AD560C66298}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_2111"
+		Debug.AspNetCompiler.PhysicalPath = "..\bradhuggins.github.io\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_2111\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_2111"
+		Release.AspNetCompiler.PhysicalPath = "..\bradhuggins.github.io\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_2111\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "2111"
+		SlnRelativePath = "..\bradhuggins.github.io\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B84CDEC-F097-4E29-B9A6-5AD560C66298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B84CDEC-F097-4E29-B9A6-5AD560C66298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E6B41E6-0DA3-4E14-84E1-757F29E647D2}
+	EndGlobalSection
+EndGlobal
